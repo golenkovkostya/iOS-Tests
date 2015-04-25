@@ -6,7 +6,7 @@ CoreFoundation
 True or False? You should use NSHost when connecting to a specific host.
 
 * False (You should use CFHost)
-True
+* True
 
 
 ##2 Question:
@@ -15,8 +15,8 @@ True
 What kind of socket does a CFSocket use?
 
 * A BSD Socket
-A NSOperationsQueue socket
-A TCP/IP socket
+* A NSOperationsQueue socket
+* A TCP/IP socket
 
 
 BSD Socket - сокеты Беркли (API сокетов BSD)
